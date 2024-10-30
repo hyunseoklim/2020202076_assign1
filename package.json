@@ -1,13 +1,13 @@
 {
-    "name": "2020202076_assign1",
-    "version": "0.0.1",
-    "description": "",
+    "name": "k2-num-nest-hslim",
+    "version": "0.0.2",
+    "description": "A simple open-source project providing functions like averaging, prime number checking, and factorial calculation.",
     "main": "main.js",
     "scripts": {
         "test": "jest"
     },
     "bin": {
-        "numnest": "./main.js"
+        "numnest": "main.js"
     },
     "author": "",
     "license": "ISC",
